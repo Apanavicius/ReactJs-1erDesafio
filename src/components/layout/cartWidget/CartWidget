@@ -1,0 +1,10 @@
+import { IoMdCart } from "react-icons/io";
+
+export const CartWidget = () => {
+  return (
+    <div>
+      <IoMdCart color="steelblue" size="30px" />
+      <span>n</span>
+    </div>
+  );
+};

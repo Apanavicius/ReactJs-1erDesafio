@@ -1,0 +1,19 @@
+.header-top {
+  background-color: #ff9100;
+  display: flex;
+  justify-content: last baseline;
+  align-items: center;
+  list-style-type: none;
+}
+
+.nav-link-title {
+  color: black;
+}
+
+.nav-item {
+  list-style-type: none;
+}
+
+.nav-link-title {
+  cursor: pointer;
+}
